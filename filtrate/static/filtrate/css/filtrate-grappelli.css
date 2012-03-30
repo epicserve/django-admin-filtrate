@@ -1,0 +1,34 @@
+#changelist-filter div.filtrate input[type="submit"] {
+    margin-left: 10px;
+}
+div.filtrate h3 {
+    background: none;
+    padding: 0px;
+}
+div.filtrate {
+    margin-bottom: 10px;
+}
+div.filtrate input[type=submit] {
+    font-size: 0.8em;
+    float: right;
+}
+div.filtrate .filtrate_date {
+    width: 90px;
+    line-height: 13px !important;
+    padding: 5px 5px 4px;
+    height: 25px;
+    background-color: #fff;
+    color: #666;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+}
+div.filtrate .filtrate_daterange_form p:first-child {
+    float: left;
+    display: block;
+    width: 90px;
+}
+div.filtrate .filtrate_daterange_form p:nth-child(2) {
+    float: right;
+    width: 90px;
+    padding-left: 18px;
+}
